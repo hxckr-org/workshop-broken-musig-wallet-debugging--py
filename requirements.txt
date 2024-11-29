@@ -1,0 +1,4 @@
+bitcoin-utils>=0.5.2
+mnemonic>=0.20
+cryptography>=3.4.7
+pytest>=7.0.0 
