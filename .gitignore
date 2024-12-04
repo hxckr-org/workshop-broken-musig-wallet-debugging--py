@@ -1,1 +1,8 @@
 __pycache__
+.pytest_cache
+.hxckr/bin
+.hxckr/lib
+.hxckr/include
+.hxckr/pyvenv.cfg
+.hxckr/share
+.hxckr/man

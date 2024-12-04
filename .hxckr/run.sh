@@ -1,3 +1,4 @@
 #!/bin/sh
 set -e
-exec python app/main.py "$@"
+
+exec pytest .hxckr/test.py "$@"
